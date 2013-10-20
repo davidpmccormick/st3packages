@@ -1,0 +1,28 @@
+{
+	"color_scheme": "Packages/User/DMC.tmTheme",
+	"detect_slow_plugins": false,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.scssc"
+	],
+	"folder_exclude_patterns":
+	[
+		"bin",
+		".git",
+		".sass-cache"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 12.5,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": true,
+	"soda_folder_icons": true,
+	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

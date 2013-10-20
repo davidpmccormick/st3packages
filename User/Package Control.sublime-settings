@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Autoprefixer",
+		"CSScomb",
+		"EmberScript",
+		"Emmet",
+		"Emmet Css Snippets",
+		"ExpressionEngine",
+		"GitGutter",
+		"Handlebars",
+		"jQuery",
+		"LiveStyle",
+		"Nettuts+ Fetch",
+		"Sass",
+		"SideBarEnhancements",
+		"sublimelint",
+		"Theme - Soda",
+		"XSLT Snippets"
+	]
+}
